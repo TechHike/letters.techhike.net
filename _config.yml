@@ -1,0 +1,7 @@
+name: Letters
+title: Letters
+url: http://letters.techhike.net
+markdown: redcarpet
+permalink: /:year/:month/:day/:title
+timezone: "US/Pacific"
+exclude: ['README.md']
